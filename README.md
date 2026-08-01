@@ -193,3 +193,5 @@ This repository is designed for:
 ---
 
 ⭐ If this project helps you — give it a star!
+https://github.com/Nieams/Data-Science-For-Beginners-from-scratch-course/tree/dev
+https://t.me/SENATOROVAI
