@@ -305,8 +305,8 @@
 
 # 4.1 Строки с использованием обратного слэша (\)
 string_continued = (
-    "This is a long string that we want to "\
-    "split across multiple lines."
+    "This is a long string that we want to " \
+        "split across multiple lines."
 )
 print(string_continued)
 # 4.2 Тройные кавычки (''' или """)
