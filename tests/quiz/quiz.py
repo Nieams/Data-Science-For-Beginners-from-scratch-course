@@ -304,7 +304,6 @@
 # есть смысл комментария)
 
 # 4.1 Строки с использованием обратного слэша (\)
-# 4.1 Строки с использованием обратного слэша (\)
 string_continued = (
     "This is a long string that we want to " \
     "split across multiple lines."
